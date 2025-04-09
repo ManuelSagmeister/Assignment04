@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/Battleship" />
     <file type="web" url="file://$PROJECT_DIR$/GameField" />
     <file type="web" url="file://$PROJECT_DIR$/Player" />
+    <file type="web" url="file://$PROJECT_DIR$/RegistryService" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

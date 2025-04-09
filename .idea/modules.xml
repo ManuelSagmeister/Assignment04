@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Assignment04.iml" filepath="$PROJECT_DIR$/Assignment04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Battleship.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Battleship.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameField.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GameField.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Player.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Player.main.iml" />
     </modules>
   </component>
 </project>

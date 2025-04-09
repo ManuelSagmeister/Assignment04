@@ -1,4 +1,14 @@
 package at.fhv.sem4.gamefield.Entity;
 
-public class PlayerDTO {
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Setter
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
+public class PlayerDTO{
+    private String name;
 }
